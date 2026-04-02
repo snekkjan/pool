@@ -1,0 +1,26 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://bit.ly/4m6tKtP",
+        "url_png_logo": "https://bit.ly/4vaS7L2",
+        "location": "",
+        "social": {
+            "twitter_handle": "https://www.x.com/Runvordr",
+            "telegram_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    }
+}
